@@ -1,0 +1,4 @@
+interface:
+  display_name: "mao-method"
+  short_description: "用《毛泽东选集》方法论做决策诊断、战略推进与说服沟通"
+  default_prompt: "使用 $mao-method，用《毛泽东选集》方法论诊断当前问题并给出可执行的下一步。"
