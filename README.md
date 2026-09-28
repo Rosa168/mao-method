@@ -1,5 +1,7 @@
 # mao-method
 
+![mao-method 封面](assets/mao-method-cover.png)
+
 > 用《毛泽东选集》的辩证唯物主义方法论，把一团乱麻的问题理成「**主要矛盾 → 策略 → 下一步**」。
 
 不是鸡汤生成器，是一个可复现的判断框架。你带着一团乱麻进来，带着「现状、主要矛盾、策略、下一步」出去。
@@ -87,6 +89,12 @@ skills/mao-method/
     ├── mode-strategy.md        模式 B 详细流程
     └── mode-persuasion.md      模式 C 详细流程
 ```
+
+**仓库还附带视觉资源**（在 `assets/` 目录）：
+
+- `assets/mao-method-cover.png`：仓库封面横幅（README 顶部那张）
+- `assets/mao-method-logo.png`：标志图
+- `assets/usage-guide.html`：使用指南信息图，浏览器直接打开即可查看（含三模式路由、8 步工作流、可视化图与边界）
 
 ## 六条公理
 
